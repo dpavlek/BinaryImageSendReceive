@@ -11,9 +11,12 @@ Run the program, load the image, choose the serial port and baudrate, click send
 
 ### Team behind the program ###
 
-Vladimir Anić
-Gabrijela Kramar
-Matija Tivanovac
+Vladimir Anić,
+
+Gabrijela Kramar,
+
+Matija Tivanovac,
+
 Daniel Pavleković
 
 ### Who do I talk to? ###
